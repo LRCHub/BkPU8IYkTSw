@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "少女レイ（feat. 初音ミク）",
+  "base_artist": "みきとP",
+  "createdAt": "2026-02-24T11:30:00.937674Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "少女レイ (feat. みきとP)",
+      "artist": "みきとP",
+      "has_synced": false,
+      "path": "select/pl_01_少女レイ_(feat._みきとP)_みきとP.txt"
+    }
+  ]
+}
